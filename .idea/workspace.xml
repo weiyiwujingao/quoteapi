@@ -1,7 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b48b5965-0bcb-4f0f-9a33-d7b15a9137ff" name="Default" comment="" />
+    <list default="true" id="b48b5965-0bcb-4f0f-9a33-d7b15a9137ff" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/quotes.api.cnfol.com.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/.htaccess" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/newStockList/7b/b2/quotes_api_F001_0_0_0_0_200__cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/0f/f1/quotes_api_F106_bc6bf0327497bfed0090502a17c555e5_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/10/01/quotes_api_F106_a98dbafb515d7e0847dd4a0134f4ca60_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/25/51/quotes_api_F106_bc6761608e5d41ce4fce0073b8e82b22_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/32/2c/quotes_api_F106_3ad87e9f057ceb409f9c263d99a7f86a_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/34/49/quotes_api_F106_f54114274ebc93694226e5632b050df7_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/62/2d/quotes_api_F106_d8017e738cd974cab384aeda904a0b83_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/74/4f/quotes_api_F106_8f9c22b41d930556a1c38f1f790db757_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/76/62/quotes_api_F106_a98dbafb515d7e0847dd4a0134f4ca60_50_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/78/8e/quotes_api_F106_a98dbafb515d7e0847dd4a0134f4ca60_40_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/87/7a/quotes_api_F106_168a5b359bd5f0a081abafe46621005a_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/89/9b/quotes_api_F106_c65760d6f9d2b6ec0fcc409e2bb7bc0a_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/a1/1a/quotes_api_F106_f54114274ebc93694226e5632b050df7_40_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/a7/79/quotes_api_F106_553668d8cda09c8620411113412eee76_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/c2/26/quotes_api_F106_ca5392420f7f8eab21b8c9a8283d8e5a_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/cb/ba/quotes_api_F106_a2787ef0677cfdc91fd4d576d7785e20_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/d8/83/quotes_api_F106_f1e9caa758ad4bc096faa6ea63821914_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/da/ad/quotes_api_F106_8f9c22b41d930556a1c38f1f790db757_5_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/db/b9/quotes_api_F106_bc6761608e5d41ce4fce0073b8e82b22_40_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/e0/06/quotes_api_F106_f54114274ebc93694226e5632b050df7_50_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/e8/8e/quotes_api_F106_21a00a6b33617612d52aaca50de5cbe1_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/fc/cb/quotes_api_F106_bc6761608e5d41ce4fce0073b8e82b22_50_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/noticeList/ff/f9/quotes_api_F106_2bd1bef9d118fcdfad8bbea241ffb3bd_30_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/stockListedDetail/42/20/quotes_api_F010_600600K_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/szbl/18/87/quotes_api_F049_0_11_0_2015-06-30__cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/szbl/a7/7d/quotes_api_F049_0_11_0_2014-06-30__cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/szbl/ff/f3/quotes_api_F049_0____300295J_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yjbb/0a/ae/quotes_api_F071_____300104J_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yjbb/19/9f/quotes_api_F071_0_0_0_2015-03-31__cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yjbb/87/78/quotes_api_F071_0_0_0_2014-12-31__cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yjkb/f7/7f/quotes_api_F072_1_0_2014-09-30__cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yjyg/2c/c0/quotes_api_F073____300104J_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yjyg/7e/eb/quotes_api_F073_0_0_0_2015-09-30__cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yjyg/c8/87/quotes_api_F073_0____300104J_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yjyg/db/bd/quotes_api_F073_1_0_2014-09-30__cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yjyg/ec/c6/quotes_api_F073_0_1_0_2014-09-30__cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yplsj/a0/03/quotes_api_F047_7_0_2014-03-31__cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yplsj/d4/48/quotes_api_F047____000001J_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/cache/yplsj/f4/4f/quotes_api_F047_7_0_2015-03-31__cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/autoload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/config.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/constants.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/constants.php.20151015wujg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/database.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/doctypes.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/foreign_chars.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/hkstock_setting.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/hooks.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/main_setting.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/migration.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/mimes.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/profiler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/routes.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/smileys.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/stock_setting.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/config/user_agents.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/_hkstock/hkchart_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/_hkstock/hkmystock_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/_hkstock/hkquotes_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/_stock/chart_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/_stock/f10_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/_stock/mystock_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/_stock/quotes_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/_thirdparty/hkmystock_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/_thirdparty/hkquotes_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/_thirdparty/mystock_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/_thirdparty/quotes_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/controllers/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/core/MY_Controller.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/core/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_404.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_db.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_general.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_php.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/errors/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/helpers/func_helper.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/helpers/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/language/english/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/libraries/cnfol_file.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/libraries/cnfol_fix.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/libraries/cnfol_hkfix.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/libraries/cnfol_mem.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/libraries/cnfol_socket.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/libraries/cnfol_xml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/libraries/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/logs/cachetime_20151013.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/logs/cachetime_20151014.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/logs/cnfol_f10_20151014.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/logs/cnfol_fix_20151013.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/logs/cnfol_fix_20151014.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/logs/cnfol_hkfix_20151014.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/logs/cnfol_mem_20151013.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/logs/cnfol_mem_20151014.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_hkstock/hkchart_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_hkstock/hkmystock_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_hkstock/hkquotes_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_stock/chart_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_stock/f10_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_stock/f10_manage_mdl.php20151015wujg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_stock/mystock_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_stock/quotes_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_thirdparty/hkmystock_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_thirdparty/hkquotes_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_thirdparty/mystock_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_thirdparty/quotes_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/_user/user_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/models/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/application/views/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/h5chart/rline.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/迁移/_cms/qgqp_quotes_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/迁移/_cms/qiangu_quotes_manage.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/迁移/database.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/迁移/model/_cms/qgqp_quotes_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/迁移/model/_cms/qiangu_quotes_manage_mdl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/迁移/model/constants.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/迁移/model/constants.php.20160419wujg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/迁移/routes.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +160,8 @@
       <file leaf-file-name="main_setting.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/config/main_setting.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="660">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -50,6 +176,9 @@
     <replaceStrings>
       <replace>wujg</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -74,6 +203,7 @@
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -145,12 +275,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518057670967</updated>
-      <workItem from="1518057672387" duration="739000" />
+      <workItem from="1518057672387" duration="891000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="739000" />
+    <option name="totallyTimeSpent" value="891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -163,7 +293,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -205,8 +335,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config/main_setting.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="660">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding />
         </state>
       </provider>
